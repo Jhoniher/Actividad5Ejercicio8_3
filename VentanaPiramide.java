@@ -16,7 +16,7 @@ public class VentanaPiramide extends JFrame implements ActionListener {
         setTitle("Piramide");
         setSize(280,240);
         setLocationRelativeTo(null);
-        setResizable(false;
+        setResizable(false);
     }
     private void inicio(){
         contenedor=getContentPane();
